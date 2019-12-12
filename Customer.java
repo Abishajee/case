@@ -1,6 +1,6 @@
 package test;
 
-public class Cust {
+public class Customer {
 	int id;
 	String name,address,mob,mail,prooft,proofno;
 	void register(int id,String name,String address,String mob,String mail,String prooft,String proofno)
